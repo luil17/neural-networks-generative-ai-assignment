@@ -2,7 +2,7 @@
 **Course:** Introduction to Machine Learning  
 **Instructor:** Becky Deitenbeck
 **Student:** Luis Lopez Martinez
-**Date:** 2/24/2026
+**Date:** 3/31/2026
 
 ## Assignment Overview
 
@@ -18,7 +18,7 @@ Building a simple Neural Network and experimenting with data augmentation.
    - Retrained using augmented
    - compared test accuracy.
   
-# Reflection
+## Reflection
 
 
 ## How to Run
